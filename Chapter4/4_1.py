@@ -27,7 +27,12 @@
 #print(S.isalpha())
 #print('%s, eggs, and %s' % ('spam', 'SPAM!'))
 #print('{0}, eggs, and {1}'.format('spam', 'SPAM!'))
-squares = []
-for i in range(10,101):
-    squares.append(i ** 2)
-print(squares)
+#squares = []
+#for i in range(1,51):
+#    squares.append(i ** 2)
+#print(squares)
+#T = ('spam', 3.0, [11, 22, 33])
+#print(T[1])
+#print(T[2][1])
+#print(T[2])
+#T.append(5)
