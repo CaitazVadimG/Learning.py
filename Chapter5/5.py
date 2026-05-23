@@ -1,0 +1,5 @@
+print("type(True) = ",type(True))
+print("isinstance(True, int) = ",isinstance(True, int))
+print("(True == 1) = ",True == 1)
+print("(True is 1) = ",True is 1)
+print("(True + 4) = ",True + 4)
