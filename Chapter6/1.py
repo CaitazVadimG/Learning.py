@@ -1,0 +1,9 @@
+a = 3
+print("a = ", a)
+print("type(a) = ", type(a) )
+a = 'spam'
+print("a = ", a)
+print("type(a) = ", type(a) )
+a = 1.23
+print("a = ", a)
+print("type(a) = ", type(a) )
