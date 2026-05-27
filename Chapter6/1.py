@@ -35,3 +35,17 @@ L1[0] = 24
 
 print("L1 = ", L1)
 print("L2 = ", L2)
+
+L = [1, 2, 3]
+M = L
+print("L = ", L)
+print("M = ", M)
+print("(L == M) = ", L == M)
+print("(L is M) = ", L is M)
+
+L = [1, 2, 3]
+M = [1, 2, 3]
+print("L = ", L)
+print("M = ", M)
+print("(L == M) = ", L == M)
+print("(L is M) = ", L is M)
